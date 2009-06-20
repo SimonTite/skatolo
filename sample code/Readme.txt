@@ -1,0 +1,1 @@
+Contains the code for Chapters 3,4,5,7,8,9,and 10. Also contains the code for the photblog application. 

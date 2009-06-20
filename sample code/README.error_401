@@ -1,0 +1,13 @@
+Files: 
+ * error_401.py
+ * README.error_401
+
+Demonstrates how to raise a CherryPy error.
+
+Simply run it as follow:
+
+$ python error_401.py
+
+Then navigate to:
+
+http://localhost:8080/

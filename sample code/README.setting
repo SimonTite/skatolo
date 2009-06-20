@@ -1,0 +1,19 @@
+Files: 
+ * setting.py
+ * README.setting
+
+This module shows a few different ways on how to pass
+configuration settings to a CherryPy application
+outside the config file.
+
+Simply run it as follow:
+
+$ python setting.py
+
+Then navigate to:
+
+http://localhost:8080/
+http://localhost:8080/bouza
+http://localhost:8080/welcome
+http://localhost:8080/hello
+http://localhost:8080/echo/hi

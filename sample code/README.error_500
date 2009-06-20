@@ -1,0 +1,13 @@
+Files: 
+ * error_500.py
+ * README.error_500
+
+Demonstrates what an unhandle error looks like.
+
+Simply run it as follow:
+
+$ python error_500.py
+
+Then navigate to:
+
+http://localhost:8080/

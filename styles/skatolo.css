@@ -1,0 +1,27 @@
+/* sjt 20090616 basic scheme for skatolo objects */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    color:black;
+    background-color:#FAFCFE;
+/*
+    background-image:url('/img/this is not a blog.jpg');
+    background-position:top-left;
+    background-repeat:no-repeat;
+*/
+}
+
+img {
+    margin: 0px 4px 4px 0px;
+}
+
+div.PictureLeft img {
+    float:left;
+}
+
+.ClearFloats {
+    /* an empty div of this class forces following content below all previous
+    /* blocks, including floaters */
+    clear:both;
+}

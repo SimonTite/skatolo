@@ -1,0 +1,14 @@
+Files: 
+ * note.py
+ * style.css
+ * README.note
+
+This module describes a simplistic (really) CherryPy
+application that demonstrates some of the very basic 
+but core concepts of CherryPy.
+
+Simply run it as follow:
+
+$ python note.py
+
+Then navigate to http://localhost:8080/

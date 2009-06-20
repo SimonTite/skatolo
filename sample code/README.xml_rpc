@@ -1,0 +1,15 @@
+Files: 
+ * xml_rpc.py
+ * xml_rpc_client.py
+ * README.setting
+
+A simple example on how to transform CherryPy 
+into a XML-RPC server.
+
+Simply run it as follow:
+
+$ python xml_rpc.py
+
+Then:
+
+$ python xml_rpc_client.py

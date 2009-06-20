@@ -1,0 +1,13 @@
+Files: 
+ * error_404.py
+ * README.error_404
+
+Demonstrates how to raise a NotFound error.
+
+Simply run it as follow:
+
+$ python error_404.py
+
+Then navigate to:
+
+http://localhost:8080/

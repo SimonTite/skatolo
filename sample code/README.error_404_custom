@@ -1,0 +1,14 @@
+Files: 
+ * error_404_custom.py
+ * README.error_404_custom
+
+Shows how you can change the default page 
+sent by CherryPy when an error occurs.
+
+Simply run it as follow:
+
+$ python error_404_custom.py
+
+Then navigate to:
+
+http://localhost:8080/
